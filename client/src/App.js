@@ -11,7 +11,7 @@ import Signup from "./pages/Signup";
 import Nav from "./components/Nav";
 import Success from "./pages/Success";
 import OrderHistory from "./pages/OrderHistory";
-import store from './redux/store'
+import store from './utils/store'
 
 const client = new ApolloClient({
   request: (operation) => {
