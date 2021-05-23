@@ -18,8 +18,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "graphql": "^15.5.0",
     "if-env": "^1.0.4"
-
   },
   "devDependencies": {
     "concurrently": "^5.1.0"
